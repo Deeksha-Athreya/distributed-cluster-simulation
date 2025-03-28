@@ -62,5 +62,3 @@ docker-compose run cli-client launch-pod --cpu-requirement 2
 - Resource usage tracking
 - Auto-scaling based on cluster load
 
-## License
-MIT License
